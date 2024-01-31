@@ -1,0 +1,159 @@
+/* inter-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/inter-v13-latin-regular.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/inter-v13-latin-900.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/rubik-v28-latin-900.woff2") format("woff2");
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c8dbff;
+  padding-top: 149px;
+  padding-bottom: 143px;
+}
+.box {
+  width: 1000px;
+  height: 700px;
+  border-radius: 32px;
+  background: #fff;
+  box-shadow: 0px 0px 4px 0px rgba(0, 23, 71, 0.15);
+}
+.box-h2 {
+  color: #11175e;
+  font-family: Rubik, sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.48px;
+}
+.ikkinchi {
+  display: flex;
+}
+.container {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 79px;
+}
+.btn {
+  display: flex;
+  padding: 12px 24px;
+  align-items: flex-start;
+  gap: 8px;
+  border-radius: 4px;
+  border: #2d70fd;
+  color: #fff;
+  background: #2d70fd;
+  margin-top: 8px;
+  margin-left: 380px;
+}
+.btn:hover {
+  color: #ff00008d;
+}
+.btn:active {
+  color: #fff;
+}
+.in-btn {
+  display: flex;
+}
+.border {
+  display: flex;
+  width: 600px;
+  height: 58px;
+  flex-shrink: 0;
+  fill: #fff;
+  border: 1px solid #bbbbbb72;
+  border-radius: 10px;
+}
+.bor-p {
+  color: #b1bacb;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.16px;
+  padding-left: 20px;
+}
+.sectiom {
+  padding-top: 48px;
+  display: flex;
+  gap: 16px;
+  padding-bottom: 10px;
+}
+.sectiom2 {
+  display: flex;
+  gap: 16px;
+  padding-bottom: 10px;
+}
+.sectiom3 {
+  display: flex;
+  gap: 16px;
+}
+.sec-h3 {
+  color: #001747;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 110%;
+  letter-spacing: 0.16px;
+}
+.sec-h3:hover {
+  color: #2d70fd;
+}
+.hrrr {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #00d8a7;
+}
+.section {
+  margin-left: 405px;
+}
+.musurka {
+  padding-top: 50px;
+}
+.musurkalar {
+  padding-bottom: 26px;
+}
+.musurkalar2 {
+  padding-bottom: 26px;
+}
+.hrr {
+  margin-top: 100px;
+  width: 600px;
+  height: 1px;
+  background: #eee;
+  border: 0;
+}
+.fotter {
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  gap: 430px;
+}
+.foot-t {
+  color: #b1bacb;
+  font-feature-settings: "liga" off;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%; /* 17.6px */
+  letter-spacing: 0.16px;
+}
