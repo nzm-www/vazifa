@@ -1,0 +1,667 @@
+/* * Prefixed by https://autoprefixer.github.io * PostCSS: v8.4.14, * Autoprefixer: v10.4.7 * Browsers: last 4 version */ /*-----------------------------------------*/ /*HERDER QISM*/
+.header-container {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+.h2 {
+  margin-right: 80px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 900;
+  color: var(--secondary, #014c98);
+}
+.nav {
+  width: 100%;
+  max-width: 1280px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 24px;
+}
+.button {
+  width: 100%;
+  max-width: 170px;
+  border-radius: 40px;
+  border: 1px solid #014c98;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 15px;
+}
+.a {
+  color: #014c98;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+}
+.p {
+  color: #014c98;
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+} /*--------------------------------------------------------*/ /*MAIN*/ /*SECTION-1*/
+.mainqsm {
+  background-color: hsla(227, 100%, 14%, 1);
+}
+.main-section1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 155px;
+}
+.main-h2 {
+  max-width: 522px;
+  font-family: Montserrat, sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 43.68px;
+  text-transform: uppercase;
+  color: #ace5ff;
+  font-size: 34px;
+  line-height: 43.68px;
+}
+.buttonn {
+}
+.btnnnnn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 195px;
+  padding: 10px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  background: var(--primary, #0f90ca);
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px; /* 100% */
+  color: rgb(255, 255, 255);
+}
+.sec1-img {
+  margin-top: 26px;
+  padding-bottom: 26px;
+}
+.main-h2 {
+  padding-top: 112px;
+  padding-bottom: 133px;
+} /*------------------------------------------------*/ /*section2*/
+.sec2-container {
+  height: 100%;
+  height: 200px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.satrt {
+  text-align: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.sectionh2 {
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 39px; /* 118.182% */
+  color: #fff;
+  padding-top: 10px;
+}
+.sectionp {
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.425px; /* 149.5% */
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.sec2-buttni {
+  padding-left: ;
+  padding-right: ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btnuchnn {
+  padding-left: 525px;
+  padding-right: 500px;
+}
+.btn2-sex {
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 22.425px;
+  width: 237px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 50px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  background: var(--primary, #0f90ca);
+} /*-------------------------------------------------*/ /*section3 */
+.section3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 20px;
+}
+.section3-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 74px;
+  width: 100%;
+  max-width: 1440px;
+  gap: 28px;
+}
+.box {
+  height: 287px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 298.522px;
+  padding: 31.854px 36.405px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  gap: 18.203px;
+  border-radius: 7px;
+  background-color: #fff;
+  -webkit-box-shadow: 0px 11.832px 17.292px 0px rgba(255, 255, 255, 0.048);
+  box-shadow: 0px 11.832px 17.292px 0px rgba(255, 255, 255, 0.048);
+}
+.mini-box {
+  gap: 9.101px;
+  padding: 20.023px 17.292px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 9px;
+  background: #0f90ca;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+hr {
+  border: 1px solid #d85012;
+  width: 45.506px;
+  height: 1.82px;
+}
+.sec3-h3 {
+  color: #252b42;
+  font-family: Montserrat, sans-serif;
+  font-size: 14.562px;
+  font-weight: 700;
+  line-height: 21.843px;
+  letter-spacing: 0.091px;
+}
+.sec3-par {
+  color: #737373;
+  font-family: Montserrat, sans-serif;
+  font-size: 12.742px;
+  font-weight: 400;
+  line-height: 18.203px;
+  letter-spacing: 0.182px;
+} /*------------------------------------------------*/ /*SECTION4*/
+.sec4-satrt {
+  text-align: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.section4h2 {
+  color: #ace5ff;
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 39px;
+  padding-bottom: 17px;
+}
+.section4p {
+  color: #fff;
+  text-align: justify;
+  font-family: Poppins, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-bottom: 17px;
+}
+.sec4-butn {
+  margin-left: 540px;
+  margin-right: 540px;
+}
+.btn4-sec {
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px; /* 100% */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 195px;
+  padding: 10px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  background: var(--primary, #0f90ca);
+} /*-----------------------------------------------------*/ /*SECTION5*/
+.section5 {
+  padding-bottom: 40px;
+  padding-top: 35px;
+}
+.sec5-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 28px;
+}
+.sec5-box {
+  width: 266px;
+  height: 295px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px 26.855px 80px 27.694px;
+  padding-right: 27px;
+  padding-left: 27px;
+  padding-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 14px;
+  border-radius: 9px;
+  background: #fff;
+}
+.galchka {
+  max-height: 100%;
+  height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #3f4254;
+  font-family: Poppins, sans-serif;
+  font-size: 11.749px;
+  font-weight: 400;
+  line-height: 14px;
+}
+.all-galchka {
+  width: 100%;
+  width: 212px;
+  height: 175px;
+}
+.galchka-pp {
+  padding-bottom: 34px;
+  color: var(--white, #001049);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 19.302px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.911px;
+}
+.galchkauchun1 {
+  padding-bottom: 24px;
+  padding-left: 137px;
+  width: 100%;
+}
+.galchkauchun2 {
+  padding-left: 129px;
+}
+.galchkauchun3 {
+  padding-left: 115px;
+}
+.galchkauchun4 {
+  padding-left: 137px;
+}
+.sec5-box5 {
+  text-align: center;
+  width: 266px;
+  height: 323px;
+  background-color: #0f90ca;
+  border-radius: 9px;
+  padding-top: 50px;
+  padding-left: 29px;
+  padding-right: 29px;
+  padding-bottom: 92px;
+}
+.galchka-ppp {
+  padding-bottom: 40px;
+  padding-bottom: 34px;
+  color: var(--white, #001049);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 19.302px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.911px;
+}
+.all-galchkaa {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.galchkaa {
+  width: 208px;
+}
+.galchkauchun11 {
+  padding-left: 80px;
+}
+.galchkauchun22 {
+  padding-left: 112px;
+}
+.galchkauchun33 {
+  padding-left: 117px;
+}
+.galchkauchun44 {
+  padding-left: 80px;
+} /*--------------------------------------------------------*/ /*MAIN DAN TASHQARIDA*/ /*SECTION-6*/
+.section6 {
+  padding-bottom: 66px;
+}
+.sec6-container {
+  text-align: center;
+  max-width: 1440px;
+  width: 100%;
+  background: var(--white, #fff);
+}
+.sec6-strat {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.sec6-h2 {
+  color: #001049;
+  font-family: Montserrat, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+}
+.sec6-par {
+  margin-left: 250px;
+  color: #717074;
+  font-family: Montserrat, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  width: 720px;
+}
+.sec6-img {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  gap: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.img1-6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 154px;
+  height: 154px;
+  padding: 26px 0px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.img2-6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 154px;
+  height: 154px;
+  padding: 26px 0px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.img3-6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 154px;
+  height: 154px;
+  padding: 26px 0px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.img4-6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 154px;
+  height: 154px;
+  padding: 26px 0px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+} /*-------------------------------------------------*/ /*FOOTER*/
+.footer {
+  padding-bottom: 27px;
+  padding-top: 27px;
+  width: 100%;
+  background: hsla(227, 100%, 14%, 1);
+}
+.container {
+  width: 100%;
+  max-width: 1440px;
+}
+.footer-container {
+  width: 100%;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  gap: 625px;
+  max-width: 1440px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.app {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 196px;
+  height: 150px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.app-p {
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+}
+.app-btn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 195px;
+  padding: 10px;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  background: #0f90ca;
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 15px;
+}
+.apps {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.fut-info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 650px;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+.ff-info {
+  padding-left: 140px;
+  padding-right: 20px;
+}
+.fu-h3 {
+  color: var(--white, #fff);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+}
+.fu-pp {
+  color: var(--light-blue, #c8e0eb);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 171.429% */
+  letter-spacing: 0.2px;
+}
+.f2-h3 {
+  color: var(--white, #fff);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+}
+.f2-p {
+  color: var(--light-blue, #c8e0eb);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+}
