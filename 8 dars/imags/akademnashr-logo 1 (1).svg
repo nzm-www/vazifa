@@ -1,0 +1,41 @@
+<svg width="38" height="60" viewBox="0 0 38 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="38" height="60" fill="#E5E5E5"/>
+<g id="Bosh sahifa - Akademnashr promo sayt" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="2726" transform="translate(-170 -21)" fill="white"/>
+<g id="site-header">
+<g id="site-header-content" filter="url(#filter0_d_0_1)">
+<rect width="1440" height="91.1841" transform="translate(-170 -16)" fill="white"/>
+<g id="sitenav">
+<g id="logo">
+<g id="akademnashr-logo 1" clip-path="url(#clip1_0_1)">
+<g id="&#208;&#161;&#208;&#187;&#208;&#190;&#208;&#185; 2">
+<g id="&#208;&#161;&#208;&#187;&#208;&#190;&#208;&#185; 1">
+<path id="Vector" d="M19 0L0 13.646V48.6501L10.5341 59.1841L10.3021 22.4196L19 15.3082L27.6979 22.4196L27.4659 59.1841L38 48.6501V13.646L19 0Z" fill="#252420"/>
+<path id="Vector_2" d="M25.9939 29.5921L19 33.791L12.0062 29.5921V41.8506L19 46.055L25.9939 41.8506V29.5921Z" fill="#FF7401"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-180" y="-22" width="1460" height="111.184" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="2726" fill="white" transform="translate(-170 -21)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="38" height="59.1841" fill="white"/>
+</clipPath>
+</defs>
+</svg>
